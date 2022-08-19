@@ -25,7 +25,7 @@ if os.name == "nt":
 elif os.name == "posix":
     os.system("clear")
 
-print(colors.CAMGOBEGI + "Importing Text Data...")
+print(colors.SARI + "Importing Text Data...")
 time.sleep(1)
 txtfile = open("resource/data.txt", "r")
 
@@ -39,6 +39,8 @@ print(colors.YESIL + "Imported Your Text Data.")
 time.sleep(1)
 print(colors.SARI + "[< CODE >] Spam Has Been Starting 5 Seconds Later.")
 time.sleep(5)
+print(colors.ALTICIZILI)
+print(colors.KIRMIZI + "Attack Started!!")
 
 for word in txtfile:
     pg.typewrite(word)
