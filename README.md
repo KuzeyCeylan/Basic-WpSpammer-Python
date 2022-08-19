@@ -9,4 +9,8 @@ Program Çalışmaz İse modül eskik olmasından kaynaklanabilir.
   
 başka sorun algılanmamıştır.
 
+Kullanımı:
+
+  resource klosöründeki data.txt adlı dosyaya alt alta spamlamak istediğiniz cümleyi yazınız.
+
 CODED BY KUZEY CEYLAN
